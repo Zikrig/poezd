@@ -103,3 +103,5 @@ docker stop steam_train_bot
 - `docker-compose.yml` - конфигурация для docker-compose
 - `.dockerignore` - файлы, исключаемые из Docker образа
 
+
+# poezd
